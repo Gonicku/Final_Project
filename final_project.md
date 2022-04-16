@@ -85,17 +85,21 @@ To put it in shorter terms, the increases in global temperature have a direct co
 
 # ***Analysis***
 
-Going a bit further into the results discussed above, there are a number of factors that also go into what caused these increases in carbon emissions beyond simply one country creating more than the other. For example, we noted that there were steady increases in values amongst all graphs that generally began around 1946. This could be viewed as due to the "baby boom" that brought about a massive and steady increase in children and therefore, a massive and steady increase in carbon emissions as well. An increase in the amount of people on the planet would most defintely have carbon emissions follow suit as people themselves are emitters of carbon (in this case, carbon dioxide). Seeing as how the United States and China were 2 of the most populated countries in the world back in the 1950s[^4] (and still are today), it also appears that there is a direct correlation between population size and carbon emissions as well. While this increase
+Going a bit further into the results discussed above, there are a number of factors that also go into what caused these increases in carbon emissions beyond simply one country creating more than the other. For example, we noted that there were steady increases in values amongst all graphs that generally began around 1946. This could be viewed as due to the "baby boom" that brought about a massive and steady increase in children and therefore, a massive and steady increase in carbon emissions as well. An increase in the amount of people on the planet would most defintely have carbon emissions follow suit as people themselves are emitters of carbon (in this case, carbon dioxide). Seeing as how the United States and China were 2 of the most populated countries in the world back in the 1950s[^4] (and still are today), it also appears that there is a direct correlation between population size and carbon emissions as well.
 
 !["Figure 7: 1950s Population"](./Country_Population_1950s.png)
 
 *Figure 7: Population Sizes in 1950s.*
+
+ While this correlation would be a factor in the emissions of each country, it is certainly not the *largest* factor. This is because if it were the leading factor, then India would likely be a greater contributor of emissions than the US both back in the 1950s and now.
 
 # ***Works Cited***
 
 1.	“Fossil Fuels and Climate Change: The Facts.” ClientEarth, https://www.clientearth.org/latest/latest-updates/stories/fossil-fuels-and-climate-change-the-facts/. 
 2.	Datopian. “Global Temperature Time Series.” DataHub, https://datahub.io/core/global-temp. 
 3.	Datopian. “CO2 Emissions from Fossil Fuels since 1751, by Nation.” DataHub, https://datahub.io/core/co2-fossil-by-nation#resource-fossil-fuel-co2-emissions-by-nation. 
+4. “The Climate Crisis – a Race We Can Win.” United Nations, United Nations, https://www.un.org/en/un75/climate-crisis-race-we-can-win. 
+5. “Countries Ordered by Population in 1950.” PopulationPyramid.net, https://www.populationpyramid.net/population-size-per-country/1950/. 
 
 
 # ***Notes***
