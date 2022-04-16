@@ -22,6 +22,8 @@ The looming threat of the climate crisis has become an increasingly common topic
 
 !["Figure 1: Fridays For Future, an organization created to support the fight against the threat of climate change."](./FridaysForFuture.jpg)
 
+*Figure 1: Fridays For Future, an organization created to support the fight against the threat of climate change.*
+
 # ***Methodology***
 
 ## ***I. 	Participants:***
@@ -40,7 +42,28 @@ The participants in this experiment are the countries of the world (e.g. China, 
 
 The experiment will involve the results of these graphs, the patterns in each individual graph, and the connecting the perceived patterns to each other to see if there’s a noticeable link between them. As they are the 2 biggest contributors in the initial graph of recorded emissions in 2014, the 3 countries I will use as specific examples will be China and the United States. As such, our independent variables will be the emissions created by these countries (dubbed Country Emissions) while our dependent variable will be the world’s mean temperature (dubbed Global Temperature). To begin, we will look at the graph of the emissions per country recorded in 2014. For the sake of relativity purely in terms of emissions produced, I have only included the countries with values on the graph that were 80,000 and above. 
 
-!["Figure 2: Countries' Carbon Emissions by 2014"](./Countries'_Carbon_Emissions_By_2014.png)
+!["Figure 2: Countries' Carbon Emissions by 2014"](./Country_Emissions_2014(Remade).png)
+
+*Figure 2: Countries with the 20 highest Carbon Emission values by 2014*
+
+Looking at this graph (Figure 2) showcases the staggering difference in emission production when comparing China and the United States to practically every other country. They have emission values so large that their combined values still massively overwhelm the values of every other country combined. These values are the accumulated data on the carbon emissions of each country from as early as 1751 for some countries to 2014. Knowing our total values now, we will now view the data of the timeline of our global temperature overtime.
+
+!["Figure 3: Divergences from the global average temperature from 1880 to 2016."](./Average_Temperature.png)
+
+*Figure 3: Divergences from the global average temperature from 1880 to 2016.*
+
+This graph showcases the annual changes in average global temperature from 1880 to 2016. It’s clear just from an immediate glance at this graph that the average global temperature increases as time progresses, though not in a straight line as there will always be outside factors that determine the weather and temperature of a certain year. With these 2 graphs along we can already see a connection between them, as emissions grew overtime, the mean global temperature rose as well. To better illustrate this connection, I will show the timelines of both China’s and the United States’ emissions. 
+
+!["Figure 4: US Carbon Emissions Timeline"](./US_Emission_Timeline.png)
+
+*Figure 4: Timeline of the USA'S Carbon Emissions from 1800 to 2016.*
+
+!["Figure 5: China Carbon Emissions Timeline"](./China_Emission_Timeline.png)
+
+*Figure 5: Timeline of China's Carbon Emissions from 1800 to 2016.*
+
+With China’s timeline we can see that their emissions were fairly low for a longer time than the USA’s, but they have an explosive increase in production after the year 2000. With the USA’s timeline, it’s notable that they had a rather steady increase in emissions after around 1860 but these increases never really continued to slow down.
+
 
 ## ***Data Collection***
 
